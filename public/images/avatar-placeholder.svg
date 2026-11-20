@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-labelledby="title description">
+  <title id="title">Default profile picture</title>
+  <desc id="description">A simple person silhouette on a pale green background</desc>
+  <rect width="240" height="240" rx="36" fill="#dff1e8"/>
+  <circle cx="120" cy="88" r="42" fill="#176b4d"/>
+  <path d="M48 218c7-48 34-76 72-76s65 28 72 76" fill="#176b4d"/>
+</svg>
